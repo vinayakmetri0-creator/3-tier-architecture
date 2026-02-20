@@ -1,0 +1,14 @@
+## 🛠 Tech Stack
+
+- AWS VPC
+- EC2
+- RDS MySQL
+- S3
+- IAM
+- Application Load Balancer
+- Auto Scaling Group
+- ACM (HTTPS)
+- Route53
+- CloudFront
+- Node.js
+- Nginx
