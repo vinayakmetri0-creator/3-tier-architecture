@@ -1,3 +1,9 @@
+ <img src="assets/aws-architecture.png" width="100%">
+  <p align="center">Home Page</p>
+
+  <img src="assets/hotstar-home.png" width="100%">
+  <p align="center">Detail Modal</p>
+
 # 🚀 3-Tier Architecture Application Deployment on AWS
 
 ## 📌 Project Overview
