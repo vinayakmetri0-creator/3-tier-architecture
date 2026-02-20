@@ -1,7 +1,7 @@
  <img src="assets/aws-architecture.png" width="100%">
   <p align="center">Architecture</p>
 
-  <img src="assets/hotstar-home.png" width="100%">
+  <img src="assets/hotstar-home-page.png" width="100%">
   <p align="center">Home page</p>
 
 # 🚀 3-Tier Architecture Application Deployment on AWS
